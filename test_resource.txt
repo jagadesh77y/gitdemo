@@ -5,4 +5,6 @@ hello Masteruuuu!
 
 update text. END.
 
+gfhfghfghfghfg
+fghfghfghfg
 Show GIT PUSH command.
